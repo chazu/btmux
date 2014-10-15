@@ -1,5 +1,0 @@
-errors.lo: errors.c ../autoconf.h include/errors.h
-
-../autoconf.h:
-
-include/errors.h:

@@ -1,7 +1,7 @@
 +X992001
 +S1857
 +N78001
--R1
+-R0
 +A76546
 "1:A.0001.D"
 +A76575
@@ -63754,9 +63754,9 @@ Faction:Admin
 >1155
 "2:256:1117159876"
 >1156
-"17:256:Fri Aug  2 22:50:43 2013"
+"17:256:Mon Jun 19 21:11:02 2006"
 >38538
-"1375902343"
+"1150859462"
 >50191
 "2:0:@dol [lattr(%0/*.F)] [lattr(%0/*.D)] [lattr(%0/*.L)]={@set %0/##=NO_COMMAND}"
 <
@@ -64804,48 +64804,6 @@ Faction:Admin
 >77577
 "1806:0:Aero_Fuel Building_Supplies Brass Consumer_Good Clothing Claw Computers Copper Cocaine Concrete Coal DS_Fuel Diamond Endosteel Electric Explosives FerroFibrous FerroCrete Fabric Fertilizer Glass Gold HvyFerroFibrous Heroine Helium Iridium Iron Kevlar LTFerroFibrous Larium Lithium Livestock Lumber Medical_Supplies Marijuana Machinery Marble Natrual_Extracts Nitrogen Nickle Oil Ore Oxygen Paper Petroleum Phosphorus Plutonium Plastics Platinum Pulp Rubber Salt Seeds Silicon Slaves Sodium Steel Sulfur Timbiqui_Dark Titanium Uranium Water Waste Wood Zinc"
 <
-!46
-"Gossamer"
-200
--1
--1
--1
-95
--1
-46
-46
--1
-1000
-19
-3148288
-0
-4096
-0
->5
-"XXGliq8QaIm0Q"
->30
-"17:0:Fri Aug  2 22:52:48 2013"
->38
-"0"
->49
-"0"
->62
-"(#46)"
->63
-"IS_REGGED:1"
->84
-"#1;localhost;Fri Aug  2 22:51:50 2013;;;;;;;0;0;;;;;;;"
->88
-"localhost"
->216
-"2:0:14 20"
->232
-"2:0:1"
->674
-"17:0:chazbone@gmail.com|1375498327"
->689
-"2:0:1"
-<
 !53
 "[1m[31mMASTER: [0mCommon Globals"
 9
@@ -65144,9 +65102,9 @@ Faction:Admin
 >246
 "@fo me={FIXMAP};@tri me/SAVEMAP.T"
 >2292
-"Wed Aug  7 03:05:43 2013"
+"Tue Jun 20 03:11:02 2006"
 >2293
-"6"
+"1"
 >2294
 "3"
 >2299
@@ -70924,7 +70882,7 @@ This game is under construction! Tell the staff to update the MOTD on #182.
 "[1m[33mUser Agreement[0m"
 -1
 -1
-46
+-1
 254
 -1
 -1
@@ -70982,11 +70940,11 @@ This game is under construction! Tell the staff to update the MOTD on #182.
 >263
 "2:0:%tWelcome to the public sims. Here you may practice with any mech on%r'listrefs' on a number of different maps. Try to be courteous in doing so,%rtwinks will be hit with a wet trout."
 >2292
-"2:0:Wed Aug  7 03:05:43 2013"
+"2:0:Tue Jun 20 03:11:02 2006"
 >2293
-"2:0:3"
+"2:0:4"
 >2294
-"2:0:2"
+"2:0:1"
 >2299
 "Clear0"
 >2303
@@ -74399,7 +74357,7 @@ Faction:Admin
 >55423
 "2:0:@dol/delimit | [v(MIN_[extract(extract(time(),4,1),2,1,:)])]={@tri [loc(me)]/##.T}"
 >55425
-"1375903801"
+"1150861260"
 <
 !1171
 "Randis IV Game Center"

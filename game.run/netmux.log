@@ -1,9 +1,0 @@
-20141014.170033 TinyMUX INI/START: Starting: BattleTech MUX 0.7.0-rc4+HUD+HAG+ALG RELEASE svn revision Unversioned directory 'Fly' build #1 on Tue Oct 14 16:58:17 EDT 2014
-20141014.170033 TinyMUX INI/START: Build date: Tue Oct 14 16:58:17 EDT 2014
-LOADING: data/commac.db
-LOADING: data/commac.db (done)
-LOADING: data/hcode.db
-LOADING: data/hcode.db (done)
-LOADING: data/econ.db
-LOADING: data/econ.db (done)
-20141014.170211 Battletech: The Sandbox CON/BAD  : [7/localhost] Failed connect: 'wuit'
